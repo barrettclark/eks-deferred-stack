@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MPL-2.0
 
 identity_token "aws" {
-  audience = ["stacks-barretto-StacksyStacks-eks-deferred-stack"]
+  audience = ["stacks-barretto-StacksyStacks-eks-deferred-stack-20240910191901458800000002"]
 }
 
 deployment "development" {
